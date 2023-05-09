@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IlligalParking</string>
+    <string name="illegalParkInformation">불법주정차 기준 안내</string>
+    <string name="btnCheck">확인</string>
+    <string name="applicationTitle">불법주정차 알리미</string>
+    <string name="_7">7. 어린이 보호구역 중 초등학교 정문 앞</string>
+    <string name="_6">6. 소방용수시설 또는 비상소화장치가 설치된 곳</string>
+    <string name="illegalParkingInformationSubTitle">◆ 주 · 정차의 금지장소 안내</string>
+    <string name="_1">1. 교차로 · 횡단보도 · 건널목이나 보도와 차도가 구분된 도로의 보도</string>
+    <string name="_5">5. 건널목의 가장자리 또는 횡단보도로부터 10m 이내인 곳</string>
+    <string name="_4">4. 버스정류장(기둥 · 판 · 선으로부터 각각 10m 이내인 곳)</string>
+    <string name="_3">3. 안전지대의 사방으로부터 각각 10m 이내인 곳</string>
+    <string name="_2">2. 교차로의 가장자리나 도로의 모퉁이로부터 5미터 이내인 곳</string>
+</resources>
